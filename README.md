@@ -2,9 +2,8 @@
 Gestor de Tareas
 
 Crear un programa en Python que permita gestionar tareas utilizando listas y diccionarios para almacenar y manipular los datos de las tareas. Además, practicaremos el uso de ramas en Git para organizar el desarrollo del proyecto.
-
-
-Pasos:
+Repositorio creado en: https://github.com/Marisav09/actividad_clase4
+Desarrollo:
 
 *Configuración del Proyecto:*
 
